@@ -2,7 +2,7 @@
 
 Exo-Finder is a locally hosted, full-stack web application designed for exploring and visualizing exoplanet data from NASA's extensive database. Built with modern web technologies, it provides an intuitive interface for discovering worlds beyond our solar system.
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1868" height="866" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/aedc7958-2e83-4720-85b1-643c6e21e7f6" />
 
