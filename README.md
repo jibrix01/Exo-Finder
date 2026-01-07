@@ -18,7 +18,7 @@ Exo-Finder is a locally hosted, full-stack web application designed for explorin
 
 <img width="1861" height="618" alt="Planetary Comparison" src="https://github.com/user-attachments/assets/bc27c14b-0384-489a-993e-e9631fe53757" />
 
-## \Features
+## Features
 
 ### Advanced Search & Discovery
 Search through NASA's entire exoplanet database with ease. Find specific exoplanets and explore comprehensive data including:
@@ -30,7 +30,7 @@ Search through NASA's entire exoplanet database with ease. Find specific exoplan
 ### Interactive Data 
 - Click any column header to sort exoplanets by that property
 - Toggle between ascending and descending order
-- 
+
 ### Rich Data Visualizations
 Explore exoplanet data through six comprehensive graphs:
 - Discovery trends over time
@@ -39,7 +39,7 @@ Explore exoplanet data through six comprehensive graphs:
 - Temperature ranges
 - Discovery method
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js and npm installed
