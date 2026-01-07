@@ -1,2 +1,2 @@
-# exo-finder-x
+# Exo-finder-x
 
